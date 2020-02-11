@@ -1,4 +1,4 @@
-# pepSpider
+# 电子书爬虫pepSpider
 A Python script that crawls public ‘pep-book’ images, then converts into PDFs.
 
 (Only crawling public pep-book in http://bp.pep.com.cn/jc/)
